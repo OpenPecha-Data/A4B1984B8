@@ -1,0 +1,19 @@
+segment_sources:
+  IF6A8BE91:
+    type: origin_type
+    relation: translation
+    language: en
+  I3BA30512:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  718d90459482444689d140176ed11116:
+    IF6A8BE91: aa913adbf88440d6b77efd1d9d12b29c
+    I3BA30512: 42dc609ff16d4ca29793d94738a0b981
+  fd9e4341991d4deea1b02d6beac0baf6:
+    IF6A8BE91: 8c68abe39d6f4622b1357e657e117f25
+    I3BA30512: 3c6b8fff3b5247c6bde651da60ca214e
+  0b322ab53b6a44498eebf4a35c136193:
+    IF6A8BE91: a8e74d08dbf242fc9ad4d9d417bbe616
+    I3BA30512: 7f85cba9b9764eeba6d61613c4d20ac2
